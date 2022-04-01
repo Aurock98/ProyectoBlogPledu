@@ -1,1 +1,1 @@
-# ProyectoBlogPledu
+Proyecto del curso de DESARROLLO WEB de Pledu 2022. 
